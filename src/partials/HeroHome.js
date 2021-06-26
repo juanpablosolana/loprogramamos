@@ -49,7 +49,7 @@ function HeroHome() {
             >
               Programamos aplicaciones{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400">
-                Extraorniarias
+                Extraordinarias
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
