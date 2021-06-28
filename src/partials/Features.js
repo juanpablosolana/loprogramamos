@@ -46,7 +46,7 @@ function Features() {
               data-aos="fade-right"
             >
               <div className="mb-8 md:pr-4 lg:pr-12 xl:pr-16">
-                <h3 className="mb-3 h3">Herramientas poderosas</h3>
+                <h3 className="mb-3 h3">Tecnologías poderosas</h3>
                 <p className="text-xl text-gray-600">
                   Utilizamos herramientas poderosas, modernas y estables para
                   cumplir con los estándares de calidad.{" "}
