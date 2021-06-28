@@ -33,8 +33,8 @@ function Features() {
           <div className="max-w-3xl pb-12 mx-auto text-center md:pb-16">
             <h1 className="mb-4 h2">Explore nuestras soluciones</h1>
             <p className="text-xl text-gray-600">
-              Creemos en la ciencia, el arte y la tecnología para transformar la
-              realidad.
+              Implementamos metodologías que incluye procesos que nos permiten
+              entender al mercado y los consumidores.
             </p>
           </div>
 
@@ -46,11 +46,10 @@ function Features() {
               data-aos="fade-right"
             >
               <div className="mb-8 md:pr-4 lg:pr-12 xl:pr-16">
-                <h3 className="mb-3 h3">Powerful suite of tools</h3>
+                <h3 className="mb-3 h3">Herramientas poderosas</h3>
                 <p className="text-xl text-gray-600">
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore pariatur. Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa.
+                  Utilizamos herramientas poderosas, modernas y estables para
+                  cumplir con los estándares de calidad.{" "}
                 </p>
               </div>
               {/* Tabs buttons */}
@@ -69,11 +68,11 @@ function Features() {
                 >
                   <div>
                     <div className="mb-1 font-bold leading-snug tracking-tight">
-                      Building the Simple ecosystem
+                      Programación ágil
                     </div>
                     <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                      Nuestras metodologías de desarrollo ágil implementan
+                      respuestas rápidas a tus necesidades.
                     </div>
                   </div>
                   <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 ml-3 bg-white rounded-full shadow">
@@ -100,11 +99,13 @@ function Features() {
                 >
                   <div>
                     <div className="mb-1 font-bold leading-snug tracking-tight">
-                      Building the Simple ecosystem
+                      Ecosistema idealizado en la nube
                     </div>
                     <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                      Tus aplicaciones pueden vivir en los servidores de Amazon,
+                      Google, Microsoft entre otros sin ninguna distinción, en
+                      algunas ocasiones combinamos los servicios para obtener el
+                      mejor performance al mejor precio.
                     </div>
                   </div>
                   <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 ml-3 bg-white rounded-full shadow">
@@ -115,41 +116,6 @@ function Features() {
                     >
                       <path
                         d="M11.854.146a.5.5 0 00-.525-.116l-11 4a.5.5 0 00-.015.934l4.8 1.921 1.921 4.8A.5.5 0 007.5 12h.008a.5.5 0 00.462-.329l4-11a.5.5 0 00-.116-.525z"
-                        fillRule="nonzero"
-                      />
-                    </svg>
-                  </div>
-                </a>
-                <a
-                  className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
-                    tab !== 3
-                      ? "bg-white shadow-md border-gray-200 hover:shadow-lg"
-                      : "bg-gray-200 border-transparent"
-                  }`}
-                  href="#0"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setTab(3);
-                  }}
-                >
-                  <div>
-                    <div className="mb-1 font-bold leading-snug tracking-tight">
-                      Building the Simple ecosystem
-                    </div>
-                    <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
-                    </div>
-                  </div>
-                  <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 ml-3 bg-white rounded-full shadow">
-                    <svg
-                      className="w-3 h-3 fill-current"
-                      viewBox="0 0 12 12"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M11.334 8.06a.5.5 0 00-.421-.237 6.023 6.023 0 01-5.905-6c0-.41.042-.82.125-1.221a.5.5 0 00-.614-.586 6 6 0 106.832 8.529.5.5 0 00-.017-.485z"
-                        fill="#191919"
                         fillRule="nonzero"
                       />
                     </svg>
