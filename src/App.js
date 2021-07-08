@@ -26,6 +26,7 @@ function App() {
       duration: 700,
       easing: 'ease-out-cubic',
     });
+    document.title = "Lo programamos | Inicio";
   });
 
   useEffect(() => {
