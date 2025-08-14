@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "timestamp": 1755131720197,
+    "version": 2,
+    "git": {
+      "branch": "main",
+      "commit": "33f87f865f88cd01cfc0aca5723724585431bd0e"
+    }
+  },
+  "data": {
+    "frameworks": [],
+    "commands": {
+      "test": {
+        "firstExecuted": true
+      }
+    }
+  }
+}
